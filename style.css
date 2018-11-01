@@ -1,0 +1,44 @@
+#hairmetal {
+  border-radius: 8px;
+}
+
+/* .chart::before {
+  position: absolute;
+  top: 50px;
+  left: 300px;
+  z-index: -1;
+  display: block;
+  width: 800px;
+  height: 450px ;
+  content: " ";
+  background-image: url("patch.jpeg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  opacity: 0.5;
+} */
+
+
+.tooltip {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  padding: 2px;
+  padding-top: 8px;
+  font: 12px sans-serif;
+  color: white;
+  text-align: center;
+  background: #551aaf;
+  border: 0;
+  border-radius: 10px;
+}
+
+.axisText {
+  font-family: sans-serif;
+  font-weight: bold;
+  fill: #551aaf;
+  text-anchor: middle;
+}
+h1 {
+  text-align: center;
+}
